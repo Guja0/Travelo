@@ -108,4 +108,33 @@
     padding-top: 15px;
     font-size: 23px;
 }
+.section{
+    display: flex;
+    width: 1294px;
+    background-color: black;
+    position: relative;
+}
+.tips{
+    width: 369px;
+    height: 270px;
+    background-color: red;
+    border: black;
+    border-style: dotted;
+    
+}
+.tip2{
+    margin-left: 80px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+  
+  
 
